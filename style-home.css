@@ -1,0 +1,48 @@
+.primary-title{
+    padding-left: 40px;
+}
+
+#banner{ 
+    width: 100%;
+}
+
+.primary{
+    background: #BBBBBB;
+    padding: 20px;
+}
+
+p{
+    text-align: center;      
+}
+
+em strong{
+    color: #FF0000;
+}
+
+#mission{
+    font-size: 20px;
+}
+
+.diferences{
+    background: #FFFFFF;
+    padding: 30px;
+}
+
+.centralized-text{
+    text-align: center;
+}
+
+.items{
+    font-style: italic;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    font-size: 30px;
+    margin-right: 25%;
+}
+
+.diffImages{
+    width: 60%;
+}
